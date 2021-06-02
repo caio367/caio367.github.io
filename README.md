@@ -41,6 +41,6 @@ de cpf e da parte de validação do formulário.
 -https://developer.mozilla.org/pt-BR/docs/Web/CSS/Media_Queries/Using_media_queries
 -https://blog.paulagrangeiro.com.br/hospedando-sites-gratuitamente-com-o-github-pages-284aa643db14
 -https://color.adobe.com/pt/create/color-wheel
--http://www.macoratti.net/alg_cpf.htm
+*http://www.macoratti.net/alg_cpf.htm
 
 
