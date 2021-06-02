@@ -54,7 +54,7 @@ margin-bottom: 0px;
 }
 
 .width-1{
-    width: 70%;
+    width: 100%;
 }
 
 .row{
@@ -229,7 +229,9 @@ width: 35%;
 /* Variações de telas */
 
 @media (min-width: 768px) {
-    
+    .width-1{
+        width: 70%;
+    }
 }
 
 
